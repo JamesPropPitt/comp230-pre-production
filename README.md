@@ -8,7 +8,9 @@ One of the first things I added to the game was  the basic AI health and death s
 
 
 
+This video illustrates the gameplay of the game and my individual contributions to the game.
 
+![](https://img.youtube.com/vi/RdjhCGchFAc/0.jpg)(https://www.youtube.com/watch?v=RdjhCGchFAc)
 
 
 Lastly, something which I was unable to show off in the video as it has been taken out of the latest build is my ragdoll 
